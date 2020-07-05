@@ -1,4 +1,4 @@
-# ASPNETCORE_StoredProcs
+# ASPNETCORE_StoredProcs NET CORE 3.1
 
 # English
 
